@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 800" preserveAspectRatio="none">
+<defs><path id="blades" d="M0 0c-4-10-9-18-14-22 9 3 13 8 15 13-1-13-3-21-6-28 8 8 12 17 11 26 3-7 7-12 17-18-6 9-11 18-12 29z"/></defs>
+<g transform="translate(0 252) scale(1 .74)"><g fill="#40407F"><use href="#blades" transform="translate(44 609) scale(1.1)"/><use href="#blades" transform="translate(89 615) scale(.75)"/><use href="#blades" transform="translate(1266 566) scale(1.1)"/><use href="#blades" transform="translate(1332 557) scale(1.5)"/><use href="#blades" transform="translate(1390 548) scale(.98)"/></g>
+<g fill="#000054"><use href="#blades" transform="translate(52 679) scale(.7)"/><use href="#blades" transform="translate(1058 727) scale(.92)"/><use href="#blades" transform="translate(1362 657) scale(.85)"/></g>
+</g></svg>

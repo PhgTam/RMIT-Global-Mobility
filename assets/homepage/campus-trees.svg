@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 800" preserveAspectRatio="none">
+<defs>
+<g id="tree"><path fill="#40407F" d="m32 37 6 4-1 50h-5l1-30-14-13 2-3 12 9zm5 20 13-14 3 3-17 19z"/>
+<path fill="#40407F" d="M12 47C-2 42-2 31 10 28 4 21 14 13 23 14c-1-9 17-13 24-5 10-2 18 2 18 10 10-1 18 8 13 15 6 8-9 18-21 14-8 8-21 8-25 1-6 5-15 3-20-2z"/>
+<path fill="#8080AA" d="M9 33c8-2 16-4 23-10 10 2 19-2 26-7-4-4-9-5-13-5-7-6-21-2-22 5-10-2-18 8-14 17z"/></g>
+</defs>
+
+
+
+
+
+
+<use href="#tree" transform="translate(605 577) scale(.84)"/><use href="#tree" transform="translate(666 605) scale(.56)"/><use href="#tree" transform="translate(1372 575) scale(.65)"/></svg>
