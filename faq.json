@@ -1,0 +1,202 @@
+[
+  {
+    "id": "permit",
+    "question": {
+      "en": "Work Permit renewal",
+      "vi": "Gia hạn Giấy phép lao động"
+    },
+    "answer": {
+      "en": "The Renewal guide covers Work Permit and Temporary Residence Card renewal. If you have received a renewal request, respond promptly and contact Global Mobility if the instructions for your case are unclear.",
+      "vi": "Hướng dẫn Gia hạn đề cập đến Giấy phép lao động và Thẻ tạm trú. Nếu đã nhận được yêu cầu gia hạn, hãy phản hồi sớm và hỏi đội ngũ Global Mobility nếu hướng dẫn cho trường hợp của bạn chưa rõ."
+    },
+    "source": "renewal.html#section-01",
+    "keywords": [
+      "work permit",
+      "employment permit",
+      "giấy phép lao động",
+      "giay phep lao dong",
+      "gplđ",
+      "gpld"
+    ]
+  },
+  {
+    "id": "trc",
+    "question": {
+      "en": "Temporary Residence Card renewal",
+      "vi": "Gia hạn Thẻ tạm trú"
+    },
+    "answer": {
+      "en": "The Renewal guide covers Temporary Residence Card renewal. The date shown in the illustrated calendar is an example. Global Mobility can confirm the next step for your own card.",
+      "vi": "Hướng dẫn Gia hạn đề cập đến Thẻ tạm trú. Ngày trên lịch minh họa chỉ là ví dụ. Đội ngũ Global Mobility có thể xác nhận bước tiếp theo cho thẻ của bạn."
+    },
+    "source": "renewal.html#section-01",
+    "keywords": [
+      "residence card",
+      "resident card",
+      "trc",
+      "thẻ tạm trú",
+      "the tam tru"
+    ]
+  },
+  {
+    "id": "email",
+    "question": {
+      "en": "Renewal notification email",
+      "vi": "Email thông báo gia hạn"
+    },
+    "answer": {
+      "en": "Section 01 shows an example of an email from the RMIT Mobility Team. Read the instructions in your own message and contact the team if you are unsure whether the message applies to you.",
+      "vi": "Phần 01 minh họa email từ đội ngũ RMIT Mobility. Hãy đọc hướng dẫn trong email bạn nhận được và liên hệ đội ngũ nếu chưa rõ email có áp dụng cho trường hợp của mình không."
+    },
+    "source": "renewal.html#section-01",
+    "keywords": [
+      "renewal email",
+      "email",
+      "notification",
+      "reminder",
+      "thông báo",
+      "nhắc gia hạn",
+      "thong bao"
+    ]
+  },
+  {
+    "id": "documents",
+    "question": {
+      "en": "Which documents should I prepare?",
+      "vi": "Tôi cần chuẩn bị giấy tờ gì?"
+    },
+    "answer": {
+      "en": "The guide lets you review seven illustrative document categories, including your passport, current TRC and passport photo. A police check or family records are shown as conditional examples. Use the request from Global Mobility to confirm what actually applies to you.",
+      "vi": "Hướng dẫn cho phép xem bảy nhóm giấy tờ minh họa, gồm hộ chiếu, Thẻ tạm trú hiện tại và ảnh thẻ. Lý lịch tư pháp và giấy tờ gia đình là ví dụ có điều kiện. Hãy dựa vào yêu cầu từ đội ngũ Global Mobility để xác nhận giấy tờ áp dụng cho bạn."
+    },
+    "source": "renewal.html#section-02",
+    "keywords": [
+      "required documents",
+      "which documents",
+      "documents",
+      "paperwork",
+      "checklist",
+      "giấy tờ",
+      "giay to",
+      "hồ sơ cần",
+      "ho so can",
+      "passport photo",
+      "ảnh thẻ"
+    ]
+  },
+  {
+    "id": "travel",
+    "question": {
+      "en": "Can I travel during renewal?",
+      "vi": "Tôi có thể đi lại khi đang gia hạn không?"
+    },
+    "answer": {
+      "en": "The guide does not confirm when you may travel or re-enter Vietnam. Before making travel plans, ask Global Mobility how your own document validity and renewal status affect your trip.",
+      "vi": "Hướng dẫn chưa xác nhận thời điểm bạn có thể đi lại hoặc nhập cảnh lại Việt Nam. Trước khi sắp xếp chuyến đi, hãy hỏi đội ngũ Global Mobility về hiệu lực giấy tờ và tình trạng gia hạn của bạn."
+    },
+    "source": "contact.html",
+    "keywords": [
+      "travel",
+      "flight",
+      "airport",
+      "re enter",
+      "reentry",
+      "xuất cảnh",
+      "nhập cảnh",
+      "đi lại",
+      "chuyến bay",
+      "du lịch",
+      "du lich"
+    ]
+  },
+  {
+    "id": "prepared",
+    "question": {
+      "en": "Who prepares my application?",
+      "vi": "Ai chuẩn bị hồ sơ của tôi?"
+    },
+    "answer": {
+      "en": "The guide shows Global Mobility preparing your application after receiving your documents. Follow the team’s instructions if they ask you to supply or clarify information.",
+      "vi": "Hướng dẫn minh họa đội ngũ Global Mobility chuẩn bị hồ sơ sau khi nhận giấy tờ của bạn. Hãy làm theo hướng dẫn nếu đội ngũ yêu cầu bổ sung hoặc làm rõ thông tin."
+    },
+    "source": "renewal.html#section-03",
+    "keywords": [
+      "prepare my application",
+      "prepares my application",
+      "prepares",
+      "application preparation",
+      "prepare application",
+      "chuẩn bị hồ sơ",
+      "chuan bi ho so",
+      "ai chuẩn bị"
+    ]
+  },
+  {
+    "id": "review",
+    "question": {
+      "en": "What happens during government review?",
+      "vi": "Điều gì xảy ra khi cơ quan chức năng xem xét?"
+    },
+    "answer": {
+      "en": "The guide distinguishes application preparation, submission, review and approval. Its progress indicators are illustrative and do not show your actual case status. Ask Global Mobility for case-specific updates.",
+      "vi": "Hướng dẫn phân biệt các bước chuẩn bị, nộp, xem xét và phê duyệt hồ sơ. Thanh tiến trình chỉ mang tính minh họa. Hãy hỏi đội ngũ Global Mobility về tình trạng hồ sơ của bạn."
+    },
+    "source": "renewal.html#section-03",
+    "keywords": [
+      "government review",
+      "under review",
+      "status",
+      "processing time",
+      "how long",
+      "government",
+      "xem xét",
+      "tình trạng",
+      "bao lâu",
+      "cơ quan"
+    ]
+  },
+  {
+    "id": "collection",
+    "question": {
+      "en": "What happens after approval?",
+      "vi": "Điều gì xảy ra sau khi được phê duyệt?"
+    },
+    "answer": {
+      "en": "The final Renewal section illustrates receiving a renewed Work Permit and Temporary Residence Card. Follow the instructions from Global Mobility for the arrangements that apply to your documents.",
+      "vi": "Phần cuối minh họa việc nhận Giấy phép lao động và Thẻ tạm trú đã gia hạn. Hãy làm theo hướng dẫn từ đội ngũ Global Mobility về cách nhận giấy tờ của bạn."
+    },
+    "source": "renewal.html#section-04",
+    "keywords": [
+      "after approval",
+      "approved",
+      "collect",
+      "collection",
+      "pickup",
+      "phê duyệt",
+      "phe duyet",
+      "nhận giấy tờ",
+      "nhan giay to"
+    ]
+  },
+  {
+    "id": "contact",
+    "question": {
+      "en": "How do I contact Global Mobility?",
+      "vi": "Tôi liên hệ đội ngũ Global Mobility thế nào?"
+    },
+    "answer": {
+      "en": "Email the Global Mobility team at mobility@rmit.edu.vn.",
+      "vi": "Gửi email cho đội ngũ Global Mobility qua mobility@rmit.edu.vn."
+    },
+    "source": "contact.html",
+    "keywords": [
+      "contact",
+      "reach the team",
+      "get help",
+      "liên hệ",
+      "lien he",
+      "email address",
+      "địa chỉ email"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <script src="site-reset.js"></script>
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>RMIT Global Mobility</title>
+ <link rel="stylesheet" href="renewal.css">
+ <link rel="stylesheet" href="site.css">
+ <script defer src="translations.js"></script>
+ <script defer src="site.js"></script>
+ 
+</head>
+<body data-page="home">
+<header class="site-header">
+ <div class="site-identity"><a class="site-brand" href="index.html" aria-label="RMIT University"><img src="assets/shared/rmit-lockup.png" width="2048" height="721" alt="RMIT University"></a><span class="site-unit">Global Mobility</span></div>
+ <nav class="site-nav" data-label="nav"><a href="index.html?services=1" aria-current="page" data-t="home"></a><a href="renewal.html"  data-t="renewal"></a>
+ <span class="site-disabled" aria-disabled="true"><span data-t="repatriation"></span> <small data-t="soon"></small></span><a href="contact.html"  data-t="contact"></a></nav>
+ <div class="site-language" role="group" data-label="language"><button type="button" data-language="en" aria-label="English">E</button><span aria-hidden="true">|</span><button type="button" data-language="vi" aria-label="Tiếng Việt">V</button></div>
+ </header>
+<main>
+ <section id="campus" class="campus landing">
+ <div class="campus-art" aria-hidden="true">
+  <img src="assets/homepage/clouds.svg" class="campus-clouds" alt="">
+  <img src="assets/homepage/campus-midground.svg" class="campus-midground" alt=""><img src="assets/homepage/campus-architecture.png" class="campus-architecture" alt="" fetchpriority="high">
+  <img src="assets/homepage/campus-trees.svg" class="campus-trees" alt="">
+  <img src="assets/homepage/campus-ground.svg" class="campus-landscape" alt="">
+  <img src="assets/homepage/campus-plants.svg" class="campus-vegetation" alt="">
+ </div>
+ <div class="landing-copy">
+  <p class="landing-kicker">RMIT Global Mobility</p>
+  <h1><span data-t="heroFirst">Your journey</span> <span data-t="heroSecond">Our support</span></h1>
+  <p class="landing-description" data-t="heroDescription">Explore the renewal process at your own pace, with guidance from the Global Mobility team.</p>
+  <button type="button" class="action has-arrow landing-action" id="lets-go"><span data-t="go">Let's start!</span><span class="action-arrow" aria-hidden="true">→</span></button>
+ </div>
+ </section>
+ <section id="services" class="services" hidden>
+ <div class="services-inner">
+ <div class="service-heading"><h1 data-t="choose"></h1><p data-t="chooseHelp"></p></div>
+ <div class="service-grid">
+ <a href="renewal.html" class="service-card service-renewal">
+  <img class="service-art" src="assets/homepage/service-renewal.svg" alt="" width="320" height="180">
+  <div class="service-details"><h2 data-t="renewal"></h2><p data-t="renewalSummary"></p></div>
+  <span class="service-cta"><span data-t="exploreRenewal"></span><span class="service-arrow" aria-hidden="true">→</span></span>
+ </a>
+ <div class="service-card service-disabled" aria-disabled="true">
+  <img class="service-art" src="assets/homepage/service-repatriation.svg" alt="" width="320" height="180">
+  <div class="service-details"><h2 data-t="repatriation"></h2></div>
+  <span class="service-status" data-t="soon"></span>
+ </div>
+ </div></div></section>
+ </main>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8">
+ <script src="site-reset.js"></script>
+ <meta name="viewport" content="width=device-width,initial-scale=1">
+ <title>RMIT Global Mobility</title>
+ <link rel="stylesheet" href="renewal.css">
+ <link rel="stylesheet" href="site.css">
+ <script defer src="translations.js"></script>
+ <script defer src="site.js"></script>
+ <script defer src="faq-assistant.js"></script>
+ <meta name="rmit-faq-route" content="">
+ 
+</head>
+<body data-page="contact">
+<header class="site-header">
+ <div class="site-identity"><a class="site-brand" href="index.html" aria-label="RMIT University"><img src="assets/shared/rmit-lockup.png" width="2048" height="721" alt="RMIT University"></a><span class="site-unit">Global Mobility</span></div>
+ <nav class="site-nav" data-label="nav"><a href="index.html?services=1"  data-t="home"></a><a href="renewal.html"  data-t="renewal"></a>
+ <span class="site-disabled" aria-disabled="true"><span data-t="repatriation"></span> <small data-t="soon"></small></span><a href="contact.html" aria-current="page" data-t="contact"></a></nav>
+ <div class="site-language" role="group" data-label="language"><button type="button" data-language="en" aria-label="English">E</button><span aria-hidden="true">|</span><button type="button" data-language="vi" aria-label="Tiếng Việt">V</button></div>
+ </header>
+<main>
+ <section class="campus contact-campus"><div class="campus-art" aria-hidden="true"><img src="assets/homepage/clouds.svg" class="campus-clouds" alt="" ><img src="assets/homepage/campus-midground.svg" class="campus-midground" alt=""><img src="assets/homepage/campus-architecture.png" class="campus-architecture" alt="" ><img src="assets/homepage/campus-trees.svg" class="campus-trees" alt="" ><img src="assets/homepage/campus-ground.svg" class="campus-landscape" alt="" ><img src="assets/homepage/campus-plants.svg" class="campus-vegetation" alt="" ></div><div class="contact-copy">
+ <h1 data-t="contactUs"></h1><p data-t="contactDescription"></p>
+ <button type="button" id="answer" class="action" data-t="answer"></button><a class="contact-email" href="mailto:mobility@rmit.edu.vn">mobility@rmit.edu.vn</a></div></section>
+ <dialog id="chat" class="site-dialog chat-dialog" aria-labelledby="chat-title">
+ <header><h2 id="chat-title" data-t="assistant"></h2><button type="button" class="dialog-close" data-close data-label="close">×</button></header>
+ <div class="chat-log" role="log" aria-live="polite"><p class="chat-note" data-t="faqIntro"></p><p class="chat-typing" data-t="faqTyping" hidden></p></div>
+ <div class="chat-suggestions" data-label="faqSuggested" role="group"></div>
+ <form class="chat-form" novalidate><textarea rows="2" required maxlength="600" data-label="type" data-placeholder="type" aria-describedby="chat-validation"></textarea><button class="action" data-t="send"></button><p id="chat-validation" class="chat-validation" role="alert" hidden></p></form>
+ <footer><button type="button" class="chat-clear text-action" data-clear data-t="faqClear"></button><a href="mailto:mobility@rmit.edu.vn">mobility@rmit.edu.vn</a></footer>
+ </dialog>
+ </main>
+</body>
+</html>
